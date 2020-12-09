@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607557006 source:/home/agusm98/Documentos/Dev/AdventOfCode/DayOne/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1607557084 source:/home/agusm98/Documentos/Dev/AdventOfCode/DayOne/funciones.c
+	"funciones.h"
+	<stdio.h>
+
+1607490671 /home/agusm98/Documentos/Dev/AdventOfCode/DayOne/funciones.h
+
